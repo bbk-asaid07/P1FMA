@@ -1,0 +1,3 @@
+other,Administrator,administrator,admin@admin.com,admin,$2y$10$/eLHg8n4gq7IBBwnGwyZjune.cn6GOlpmwsHFUteabCFxL2deLZ8O
+mr,Demo,Demo,demo@gmail.com,demo,$2y$10$RzyQphGp/EY6RGJmZ7BQp.zvg6nE5l0vGPiyFCNmH4A7k7XfO1/ga
+mr,Zach,Cory,staff@gmail.com,staff,$2y$10$477WT.qHnHF8juezs/hU3.4u6Y/G8Kfc04wmtHkeRZBwSp9exMtTS

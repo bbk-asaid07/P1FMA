@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+/* Header */
+.header-bar {
+  background-color: #D9E0E6;
+}
+
+/* Nav bar */
+.main-nav {
+  background-color: #2C4559;
+}
+
+.main-nav ul, li {
+  display: flex;
+}
+
+.main-nav a {
+  color: #E5EADF;
+  padding: 0.5em 1em;
+}
+
+/* Form Button */
+.btn {
+  color: white;
+  background: #4caf50;
+  padding: 4px 16px;
+  border: none;
+}
